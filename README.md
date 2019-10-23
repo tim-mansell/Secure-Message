@@ -6,6 +6,7 @@ Simple PHP / MariaDB Secure Message System. Intended for use for sending private
 
 Use PHP 7+ with MySQL / MariaDB
 Import the .sql file to your existing database.
+Add a cronjob / windows task to run "cron.php" every X minutes to clear down any expired messages.
 
 ## Usage
 

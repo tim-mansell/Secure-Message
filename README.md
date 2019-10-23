@@ -1,7 +1,4 @@
 
-# Original Repo Credit
-https://github.com/mvazquezc/onetimesecret
-
 # Secure Message
 
 Simple PHP / MariaDB Secure Message System. Intended for use for sending private information via a secure link. Identifies any man in the middle reading private information. Information is destroyed upon being read by the recipient. 
@@ -24,3 +21,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 ¯\\____(ツ)____/¯
+
+
+# Original Repo Credit
+https://github.com/mvazquezc/onetimesecret
+Forked as a reference
